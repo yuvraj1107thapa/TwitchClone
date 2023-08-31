@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "My First Stream",
+      "description": "This is an awesome Stream !!!",
+      "id": 1
+    },
+    {
+      "title": "Let Me Add A New Stream",
+      "description": "Let Me Add A New Stream",
+      "userId": 118242586601973920000,
+      "id": 3
+    },
+    {
+      "title": "After factor",
+      "description": "After factor!!!!!!!!!!!!",
+      "id": 7
+    }
+  ]
+}
