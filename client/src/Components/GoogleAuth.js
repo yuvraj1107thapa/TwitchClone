@@ -10,8 +10,11 @@ class GoogleAuth extends React.Component {
     window.gapi.load("client:auth2", () => {
       window.gapi.client
         .init({
-          clientId: process.env.REACT_APP_GOOGLE_CLIENT_ID,
+          // clientId: process.env.REACT_APP_GOOGLE_CLIENT_ID,
+          clientId:
+            "1076688220870-p2vm16vc5l57u0r4k6k2on5so6jpgni1.apps.googleusercontent.com",
           scope: "email",
+          plugin_name: "Twitch",
         })
         .then(() => {
           this.auth = window.gapi.auth2.getAuthInstance(); // To get GAPI instance of frontend
