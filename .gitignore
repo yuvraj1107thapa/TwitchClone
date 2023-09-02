@@ -1,3 +1,4 @@
 client/node_modules/
 rmtpServer/node_modules/
 api/node_modules/
+.env

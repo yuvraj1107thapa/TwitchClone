@@ -4,7 +4,8 @@
   "description": "Api for Twitch Clone App",
   "main": "index.js",
   "scripts": {
-    "start": "json-server -p 3001 -w db.json"
+    "start": "json-server -p 3001 -w db.json",
+    "build": "npm i"
   },
   "author": "Yuvraj Thapa",
   "license": "ISC",

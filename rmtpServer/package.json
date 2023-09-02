@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Sanket Singh",
+  "author": "Yuvraj thapa",
   "license": "ISC",
   "dependencies": {
     "node-media-server": "^2.1.0"

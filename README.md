@@ -32,4 +32,4 @@ Snapshots of the project 👇
 
 ![Alt Text](snaps/1.png?raw=true "Title")
 ![Alt Text](snaps/2.png?raw=true "Title")
-![Alt Text](snaps/3_.png?raw=true "Title")
+![Alt Text](snaps/3.png?raw=true "Title")
